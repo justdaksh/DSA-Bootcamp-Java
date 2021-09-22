@@ -30,7 +30,7 @@
 - [ ] [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)
 
 ### Medium
-- [ ] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+- [x] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
 - [ ] [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
 - [ ] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 - [x] [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
@@ -39,4 +39,4 @@
 
 ### Hard
 - [ ] [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/)
-- [ ] [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
+- [x] [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
